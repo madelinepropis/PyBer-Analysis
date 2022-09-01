@@ -11,7 +11,7 @@ The purpose of this project is to create various visualizations for PyBer. PyBer
 
 PyBer's CEO needed information about the total rides, total drivers, total fares, average fare per ride, and average fare per driver. The analysis displaying this information is grouped by each city type. The DataFrame is displayed below:
 
-![Challenge_fare_summary](https://user-images.githubusercontent.com/109561408/187815181-4e5b49f2-d4ce-4c32-9413-89d1ce329747.png)
+![PyBer_SummaryDataFrame](https://user-images.githubusercontent.com/109561408/187815342-2a4da791-4d40-40bf-a6ad-a44f67efd3b1.png)
 
 ### Visualizations
 
